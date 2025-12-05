@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gesture Fruit Ninja",
+  "description": "A web-based AR game using MediaPipe for hand tracking and Three.js for 3D rendering. Slice fruits with your finger!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
